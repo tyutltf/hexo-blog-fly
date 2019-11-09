@@ -4,18 +4,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 洪卫的博客
-subtitle: 洪卫的博客
-description: 电子科技大学 | 电子与通信工程 | 计算机视觉
-keywords: UESTC CV DeepLearning MachineLearning 洪卫 sunhw Hongwei 计算机视觉 深度学习
-author: 洪卫
+title: 雨轩恋的博客
+subtitle: 雨轩恋的博客
+description: 太原理工大学 | 软件工程 | Python/Golang 开发
+keywords: Python Flask Scrapy Pandas 雨轩恋 Numpy 深度学习
+author: 雨轩恋
 language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-# url: https://shw2018.github.io/
-url: https://sunhwee.com
+url: https://tyutltf.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -114,18 +113,14 @@ theme: matery
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
 - type: git
-  repo:
-    github:  https://github.com/shw2018/shw2018.github.io.git
-    # coding: https://git.coding.net/hwsun/hwsun.git
-    # gitee: https://gitee.com/hwsun/hwsun.git
+  repository: https://github.com/tyutltf/tyutltf.github.io.git
   branch: master
-- type: baidu_url_submitter
 
 # baidu submit
 baidu_url_submit:
   count: 80                                      # 提交最新的一个链接
-  host: sunhwee.com     # 在百度站长平台中注册的域名
-  token: XXXXXXXXXXXXXXX    # 请注意这是您的秘钥， 所以请不要把博客源代码发布在公众仓库里!
+  # host: sunhwee.com     # 在百度站长平台中注册的域名
+  # token: XXXXXXXXXXXXXXX    # 请注意这是您的秘钥， 所以请不要把博客源代码发布在公众仓库里!
   path: baidu_urls.txt                # 文本文档的地址， 新链接会保存在此文本文档里
 
 
@@ -176,3 +171,7 @@ lazyload:
   enable: true 
   onlypost: true
   loadingImg: https://cdn.jsdelivr.net/gh/shw2018/cdn@1.0/sakura/img/loader/orange.progress-bar-stripe-loader.svg    # eg ./images/loading.gif
+
+# 天气接口插件
+weather:
+  enable:true
