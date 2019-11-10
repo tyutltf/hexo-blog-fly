@@ -19,5 +19,19 @@
         "title": "前去学习",
         "introduction": "超哥的博客，里面有很多干货！",
         "avatar": "/medias/avatars/lichao.jpg"
+    },
+    {
+        "name": "朴の博客",
+        "url": "http://www.zhangpu.fun:8888/login",
+        "title": "前去学习",
+        "introduction": "朴的博客，",
+        "avatar": "/medias/avatars/piao.jpg"
+    },
+    {
+        "name": "雨轩恋のCSDN",
+        "url": "https://blog.csdn.net/ltf201834",
+        "title": "CSDN的副博客",
+        "introduction": "自己在CSDN的博客",
+        "avatar": "/medias/avatars/hwsun.jpg"
     }
 ]
