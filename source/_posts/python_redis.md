@@ -114,7 +114,7 @@ print(redis.rpoplpush('list','list1'))   #删除list的尾元素并将其添加�
 
 运行结果如下：
 
-![1​(https://img-blog.csdnimg.cn/20181212165818751.PNG)
+​![1](https://img-blog.csdnimg.cn/2018121216571096.PNG)
 
 #### 集合操作：
 

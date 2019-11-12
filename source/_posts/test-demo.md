@@ -1,9 +1,9 @@
 ---
 title: Python彩蛋
 author: 雨轩恋
-top: true
-cover: true
-toc: true
+top: false
+cover: false
+toc: false
 mathjax: false
 date: 2019-09-15 11:01:15
 img:

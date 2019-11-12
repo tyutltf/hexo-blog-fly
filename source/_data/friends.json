@@ -33,5 +33,12 @@
         "title": "CSDN的副博客",
         "introduction": "自己在CSDN的博客",
         "avatar": "/medias/avatars/hwsun.jpg"
+    },
+    {
+        "name": "山三の博客",
+        "url": "https://shansan.top/",
+        "title": "前去学习",
+        "introduction": "山三大佬的博客",
+        "avatar": "/medias/avatars/shansan.jpg"
     }
 ]
