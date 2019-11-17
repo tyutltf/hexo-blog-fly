@@ -139,9 +139,11 @@
     <% } %>
 
     <!-- 天气接口控件 洪卫 shw2018 add 2019.09.09 -->
-    <% if (theme.weather.enable) { %>
-    <%- partial('_widget/weather') %>
-    <% } %>
+    <script type="text/javascript">
+        WIDGET = { FID: '1tFpFZ5Mtj' }
+    </script>
+    <script type="text/javascript" src="https://apip.weatherdt.com/float/static/js/r.js?v=1111"></script>
+
 </body>
 
 </html>

@@ -32,8 +32,11 @@
     "hexo-tag-emojis-byhj": "^1.0.0",
     "hexo-wordcount": "^6.0.1",
     "highlight": "^0.2.4",
+    "live2d-widget-model-hijiki": "^1.0.5",
     "live2d-widget-model-shizuku": "^1.0.5",
+    "live2d-widget-model-tororo": "^1.0.5",
     "live2d-widget-model-wanko": "^1.0.5",
+    "live2d-widget-model-z16": "^1.0.5",
     "markdown-it-emoji": "^1.4.0",
     "twemoji": "^12.1.2"
   }

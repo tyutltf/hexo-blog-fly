@@ -136,7 +136,7 @@ live2d:
   # model:
   #   use: live2d-widget-model-shizuku
   model:
-    use: live2d-widget-model-wanko
+    use: live2d-widget-model-z16
   display:
     position: left
     width: 150
@@ -171,7 +171,3 @@ lazyload:
   enable: true 
   onlypost: true
   loadingImg: https://cdn.jsdelivr.net/gh/shw2018/cdn@1.0/sakura/img/loader/orange.progress-bar-stripe-loader.svg    # eg ./images/loading.gif
-
-# 天气接口插件
-weather:
-  enable:true

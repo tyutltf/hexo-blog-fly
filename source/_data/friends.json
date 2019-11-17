@@ -40,5 +40,12 @@
         "title": "前去学习",
         "introduction": "山三大佬的博客",
         "avatar": "/medias/avatars/shansan.jpg"
+    },
+    {
+        "name": "郭大厨の博客",
+        "url": "https://www.kevinguo.cn/",
+        "title": "前去学习",
+        "introduction": "会数学建模的大佬",
+        "avatar": "/medias/avatars/kevinguo.jpg"
     }
 ]

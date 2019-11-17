@@ -224,7 +224,7 @@ mySkills:
       percent: 95%
     Golang:
       background: 'linear-gradient(to right, #00BCD4 0%, #80DEEA 100%)'
-      percent: 10%
+      percent: 20%
     SQL:
       background: 'linear-gradient(to right, #4CAF50 0%, #81C784 100%)'
       percent: 65%
@@ -260,8 +260,8 @@ gitalk:
   owner: tyutltf
   repo: tyutltf.github.io
   oauth:
-    clientId: XXXXXXXXXXXXXXXXXXXXXXXXXXXX
-    clientSecret: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+    clientId: 1a99986a3112d5b7c3da
+    clientSecret: f8beea13f4e3e366df096fe7475c15ec6d507545
   admin:
     - tyutltf
 
@@ -291,7 +291,7 @@ livere:
 # To use it, activate the configuration item and set appId and appKey.
 # Valine 评论模块的配置，默认为不激活，如要使用，就请激活该配置项，并设置 appId 和 appKey.
 valine:
-  enable: true
+  enable: false
   appId: XXXXXXXXXXXXXXXXXXXXXXXX
   appKey: XXXXXXXXXXXXXXXXXXXXXX
   notify: true
@@ -440,7 +440,7 @@ reprint:
   default: cc_by
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
-baidu_push: true
+baidu_push: false
 
 # 洪卫 shw2018 add 2019.09.09
 # 页面樱花飘落动效
@@ -464,11 +464,11 @@ wenzi:
 # 洪卫 shw2018 add 2019.09.10
 # 背景雪花飘落特效
 xuehuapiaoluo:
-  enable: true
+  enable: false
 
-# Tidio online contact 
+# Tidio online contact 在线聊天
 tidio:
-  enable: true
+  enable: false
   public_key: xxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 # 洪卫 shw2018 add 2019.09.15
