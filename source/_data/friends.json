@@ -47,5 +47,12 @@
         "title": "前去学习",
         "introduction": "会数学建模的大佬",
         "avatar": "/medias/avatars/kevinguo.jpg"
+    },
+    {
+        "name": "WJUPの博客",
+        "url": "http://blog.wjup.top/",
+        "title": "前去学习",
+        "introduction": "来自博客园的道友",
+        "avatar": "/medias/avatars/wjup.jpg"
     }
 ]
