@@ -1,7 +1,7 @@
 ---
 title: 2019碎碎念
 author: 雨轩恋
-top: false
+top: true
 cover: false
 toc: true
 mathjax: false
@@ -10,9 +10,11 @@ img:
 coverImg:
 password:
 summary:
+    北漂生活
 tags:
+  - 北漂
 categories:
-    生活杂谈
+  - 生活杂谈
 ---
 
 - 秋天的银杏都红了，甚是好看。
