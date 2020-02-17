@@ -2,7 +2,7 @@
 title: 知乎热门话题的爬取
 author: 雨轩恋
 top: false
-cover: true
+cover: false
 toc: true
 mathjax: true
 date: 2019-01-15 11:01:15

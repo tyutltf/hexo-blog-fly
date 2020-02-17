@@ -2,7 +2,7 @@
 title: 猎天使魔女
 author: 雨轩恋
 top: false
-cover: true
+cover: false
 toc: true
 mathjax: true
 date: 2019-11-19 22:45:15
